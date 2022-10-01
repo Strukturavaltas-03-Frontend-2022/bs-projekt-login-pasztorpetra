@@ -1,0 +1,20 @@
+.myIcon {
+  background:rgb(137, 83, 83);
+  border:1px solid #ccc;
+  border-radius: 5px;
+  display:block;
+  width:75px;
+  height:75px;
+  position:relative;
+  margin: auto;
+}
+
+.character {
+text-align: center;
+color: white;
+font-size: 4rem;
+font-family: Georgia, 'Times New Roman', Times, serif;
+position: relative;
+left: 17px;
+bottom: 11px;
+}
